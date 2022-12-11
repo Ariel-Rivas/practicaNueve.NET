@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5cb99e6 (NET)
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-01\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-01\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-01\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-01\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+<<<<<<< HEAD
+=======
+=======
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ariel\Desktop\TRABAJO\CursosGyL\PracticaNueve-ejer-02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+>>>>>>> 6361be0 (,NET)
+>>>>>>> 5cb99e6 (NET)
